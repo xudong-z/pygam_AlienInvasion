@@ -1,2 +1,3 @@
-# AttackXAUT
-XAUT big fight-National Day special dedication
+# Attack 
+
+run either `alien_invasion.py` or 'Alien Invasions compiled.ipynb' to launch the game
